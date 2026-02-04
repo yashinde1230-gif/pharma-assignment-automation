@@ -1,0 +1,6 @@
+Pharma Sales Analysis Report
+Total Sales by Product:
+- PainRelief: $1700.00
+- AllergyEase: $1200.00
+- CoughStop: $1012.50
+Analysis generated successfully
